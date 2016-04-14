@@ -22,6 +22,14 @@ ul {
   list-style: none;
 }
 
+#correct {
+  color: green;
+}
+
+#wrong {
+  color: red;
+}
+
 section {
   display: block;
 }
